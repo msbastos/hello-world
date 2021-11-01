@@ -1,5 +1,4 @@
 - Hello world!
-- Learning Web Development
 - 👋 Hi, I’m @msbastos
 - 👀 I’m interested in learning programming...
 - 🌱 I’m currently learning PHP, JavaScript, CSS and HTML.
